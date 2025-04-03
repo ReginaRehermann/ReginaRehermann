@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReginaRehermann-
+- 👋 Hi, I’m @ReginaRehermann
 - 👀 I’m interested in agriculture, insurance, digitalisation and data analytics.
 - 🌱 I’m currently learning Microsoft Dynamics, Power Plattform an Azure using Microsoft Learn.
       Thus, I want to get more experience in programming Python, R, HTML/CSS and JavaScript.
